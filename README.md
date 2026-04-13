@@ -1,20 +1,20 @@
 # Learning_Guide_For_GCSE
 This is always updating, however, this is a good place to learn about the upcoming GCSE exams and much more...
 
-**PASSWORD:**
+## **PASSWORD:**
 There is a password only because I am hosting it elsewere. 
 (It's not the same password)
 ;-)
 
-**CONTACT US:**
+## **CONTACT US:**
 If you would like to access this, you may send an email to jenitzio09@gmail.com
 
-**BUGS**
+## **BUGS**
 Please tell us if there are any bugs, since we are always trying to improve.
 
-**Website:**
+## **Website:**
 You can view this at https://learning-guide.xo.je/
 
-**Licence**
+## **Licence**
 Apache Licence applies everywhere. - For more info, go to LICENCE.
 
